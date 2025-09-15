@@ -65,7 +65,7 @@ If an ESP32 is connected via USB, the app exchanges states (floor requests, move
 ## 📸 Screenshots
 
 ![Elevator App Screenshot](assets/ElevatorAppScreenShot.PNG)
-*Main GUI showing floor buttons and elevator status.*
+
 
 ## 📌 Future Improvements
 
