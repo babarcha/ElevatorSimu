@@ -27,3 +27,67 @@ A C++17 compatible compiler (GCC, Clang, or MSVC)
 Clone repository
 
 git clone https://github.com/babarcha/ElevatorSimu.git
+
+cd ElevatorSimu
+
+Create build directory
+
+mkdir build && cd build
+
+Configure with CMake
+
+cmake .. -DCMAKE_BUILD_TYPE=Release
+
+Build project
+
+cmake --build . --config Release -j
+
+▶️ Run
+
+After building, run the executable:
+
+Linux/macOS:
+./build/bin/ElevatorSimulator
+
+Windows:
+.\build\Release\ElevatorSimulator.exe
+
+Usage
+
+Launch the app.
+
+Click on floor buttons in the GUI to request elevator movement.
+
+The elevator moves and highlights the active floor.
+
+If an ESP32 is connected via USB, the app exchanges states (floor requests, movement signals) with the hardware in real time.
+
+📸 Screenshots
+
+Here are example screenshots of the application:
+
+
+Main GUI showing floor buttons and elevator status.
+
+
+Elevator moving between floors with active floor highlighted.
+
+(Place your PNG files inside /docs or /assets and update the paths above.)
+
+📌 Future Improvements
+
+Planned enhancements for upcoming versions:
+
+🔄 Multi-elevator support (simulate multiple shafts in one building)
+
+📝 JSON/CSV logging of requests and trip history
+
+🎨 Icons, animations, and improved UI styling
+
+🕒 More realistic scheduling (e.g., collective control, peak-hour logic)
+
+📶 Enhanced ESP32 integration with bidirectional communication
+
+📄 License
+
+MIT License – feel free to use and modify.
