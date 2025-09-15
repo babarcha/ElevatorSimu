@@ -3,7 +3,7 @@
 A desktop application simulating an elevator system with floor buttons, status display, and optional ESP32 serial communication for real hardware integration.
 Built using Qt 6 and modern C++17.
 
-##✨ Features
+## ✨ Features
 
 🖥️ Interactive Qt-based GUI with floor buttons and elevator status display
 
