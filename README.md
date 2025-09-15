@@ -64,7 +64,7 @@ If an ESP32 is connected via USB, the app exchanges states (floor requests, move
 
 ## 📸 Screenshots
 
-![Elevator App Screenshot](assets/ElevatorAppScreenShot.PNG)
+![Elevator App Screenshot](assets/ElevatorAppScreenShot.png)
 
 
 ## 📌 Future Improvements
