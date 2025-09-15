@@ -1,0 +1,19 @@
+# ninja log v6
+345	3339	7764859288221213	ElevatorSimQt_autogen/timestamp	4ba3dbd19d4d9b95
+345	3339	7764859288221213	ElevatorSimQt_autogen/mocs_compilation.cpp	4ba3dbd19d4d9b95
+42887	48084	7764859750108768	ElevatorSimQt.exe	c1ec3dde081155fb
+345	3339	7764859288221213	C:/Users/Babar/QTProjects/ElevatorSimQt/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorSimQt_autogen/timestamp	4ba3dbd19d4d9b95
+3342	28060	7764859290654426	CMakeFiles/ElevatorSimQt.dir/ElevatorSimQt_autogen/mocs_compilation.cpp.obj	16be5e643bbc35d
+345	3339	7764859288221213	C:/Users/Babar/QTProjects/ElevatorSimQt/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorSimQt_autogen/mocs_compilation.cpp	4ba3dbd19d4d9b95
+3351	28074	7764859290760192	CMakeFiles/ElevatorSimQt.dir/main.cpp.obj	3d4f9e91fa4bb481
+3361	42881	7764859290858022	CMakeFiles/ElevatorSimQt.dir/mainwindow.cpp.obj	41ff1344e7cc494c
+89	265	7764849417765227	CMakeFiles/clean.additional	baedbe210acaa455
+268	312	7764849419214142	clean	577b940aee94fbd7
+125	1899	7765294362385006	ElevatorSimQt_autogen/timestamp	4ba3dbd19d4d9b95
+125	1899	7765294362385006	ElevatorSimQt_autogen/mocs_compilation.cpp	4ba3dbd19d4d9b95
+125	1899	7765294362385006	C:/Users/Babar/QTProjects/ElevatorSimQt/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorSimQt_autogen/timestamp	4ba3dbd19d4d9b95
+125	1899	7765294362385006	C:/Users/Babar/QTProjects/ElevatorSimQt/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorSimQt_autogen/mocs_compilation.cpp	4ba3dbd19d4d9b95
+1903	11243	7765294364499523	CMakeFiles/ElevatorSimQt.dir/ElevatorSimQt_autogen/mocs_compilation.cpp.obj	16be5e643bbc35d
+1910	11253	7765294364579606	CMakeFiles/ElevatorSimQt.dir/main.cpp.obj	3d4f9e91fa4bb481
+1919	13180	7765294364737545	CMakeFiles/ElevatorSimQt.dir/mainwindow.cpp.obj	41ff1344e7cc494c
+13180	14556	7765294504131418	ElevatorSimQt.exe	c1ec3dde081155fb

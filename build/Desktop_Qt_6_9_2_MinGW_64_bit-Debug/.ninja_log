@@ -1,0 +1,9 @@
+# ninja log v6
+7	1269	7796418931370714	ElevatorSimQt_autogen/timestamp	c4616327d5d2dc75
+7	1269	7796418931370714	ElevatorSimQt_autogen/mocs_compilation.cpp	c4616327d5d2dc75
+7	1269	7796418931370714	C:/Users/babar/QT_Projeects/ElevatorSim_v0.6.1/ElevatorSimQt/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ElevatorSimQt_autogen/timestamp	c4616327d5d2dc75
+7	1269	7796418931370714	C:/Users/babar/QT_Projeects/ElevatorSim_v0.6.1/ElevatorSimQt/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ElevatorSimQt_autogen/mocs_compilation.cpp	c4616327d5d2dc75
+1274	2889	7796418932576296	CMakeFiles/ElevatorSimQt.dir/ElevatorSimQt_autogen/mocs_compilation.cpp.obj	cd06ecd9477905d7
+1290	2890	7796418932736169	CMakeFiles/ElevatorSimQt.dir/main.cpp.obj	85979f724e70b43a
+1307	3622	7796418932911406	CMakeFiles/ElevatorSimQt.dir/mainwindow.cpp.obj	7ed139df4482308d
+3623	3908	7796418956071812	ElevatorSimQt.exe	4ac107d5e9967f3b

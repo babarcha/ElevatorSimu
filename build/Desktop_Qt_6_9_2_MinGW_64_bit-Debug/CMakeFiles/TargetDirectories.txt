@@ -1,0 +1,5 @@
+C:/Users/babar/QT_Projeects/ElevatorSim_v0.6.1/ElevatorSimQt/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/ElevatorSimQt.dir
+C:/Users/babar/QT_Projeects/ElevatorSim_v0.6.1/ElevatorSimQt/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/babar/QT_Projeects/ElevatorSim_v0.6.1/ElevatorSimQt/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/babar/QT_Projeects/ElevatorSim_v0.6.1/ElevatorSimQt/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/ElevatorSimQt_autogen_timestamp_deps.dir
+C:/Users/babar/QT_Projeects/ElevatorSim_v0.6.1/ElevatorSimQt/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/ElevatorSimQt_autogen.dir
