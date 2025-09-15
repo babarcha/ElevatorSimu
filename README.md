@@ -13,7 +13,7 @@ Built using Qt 6 and modern C++17.
 
 ⚙️ Modular design for easy extension (e.g., additional floors, UI styling, logging)
 
-##🛠️ Requirements
+## 🛠️ Requirements
 
 Qt 6.x (tested with Qt 6.9)
 
@@ -23,7 +23,7 @@ A C++17 compatible compiler (GCC, Clang, or MSVC)
 
 (Optional) ESP32 board + USB serial drivers
 
-##🚀 Build Instructions
+## 🚀 Build Instructions
 Clone repository
 
 git clone https://github.com/babarcha/ElevatorSimu.git
@@ -42,7 +42,7 @@ Build project
 
 cmake --build . --config Release -j
 
-##▶️ Run
+## ▶️ Run
 
 After building, run the executable:
 
@@ -68,7 +68,7 @@ If an ESP32 is connected via USB, the app exchanges states (floor requests, move
 ![Elevator App Screenshot](assets/ElevatorAppScreenShot.PNG)
 *Main GUI showing floor buttons and elevator status.*
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Planned enhancements for upcoming versions:
 
@@ -82,6 +82,6 @@ Planned enhancements for upcoming versions:
 
 📶 Enhanced ESP32 integration with bidirectional communication
 
-##📄 License
+## 📄 License
 
 MIT License – feel free to use and modify.
