@@ -62,7 +62,6 @@ The elevator moves and highlights the active floor.
 
 If an ESP32 is connected via USB, the app exchanges states (floor requests, movement signals) with the hardware in real time.
 
-
 ## 📸 Screenshots
 
 ![Elevator App Screenshot](assets/ElevatorAppScreenShot.PNG)
