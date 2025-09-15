@@ -1,4 +1,4 @@
-Elevator Simulator (Qt/C++)
+# Elevator Simulator (Qt/C++)
 
 A desktop application simulating an elevator system with floor buttons, status display, and optional ESP32 serial communication for real hardware integration.
 Built using Qt 6 and modern C++17.
